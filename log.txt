@@ -5,3 +5,4 @@ form4: fixes qpr-ref-test-target#4
 form5: see https://github.com/gordonwoodhull/qpr-ref-test-target/issues/5
 form6: fixes https://github.com/gordonwoodhull/qpr-ref-test-target/issues/6
 form7: see [#7](https://github.com/gordonwoodhull/qpr-ref-test-target/issues/7)
+form8: fixes [#8](https://github.com/gordonwoodhull/qpr-ref-test-target/issues/8)
